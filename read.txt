@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3EE3-FC8A
+
+ Directory of C:\Users\kashi\Desktop\Kashi\software\Java
+
+03/14/2025  07:43 PM    <DIR>          .
+03/14/2025  07:43 PM    <DIR>          ..
+03/14/2025  07:43 PM               898 Hello.class
+03/14/2025  06:29 PM               138 Hello.java
+03/14/2025  07:43 PM                 0 read.txt
+               3 File(s)          1,036 bytes
+               2 Dir(s)  166,734,184,448 bytes free
